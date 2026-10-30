@@ -1,0 +1,22 @@
+{
+  "name": "arena-breakout-infinite-extraction-toolkit",
+  "displayName": "Arena Breakout: Infinite Extraction Toolkit",
+  "programType": "extraction-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Equipment plans",
+    "Map references",
+    "Session records"
+  ],
+  "topics": [
+    "arena-breakout-infinite-extraction-toolkit",
+    "arena-breakout-infinite-tools",
+    "arena-breakout-infinite-menu",
+    "arena-breakout-infinite-settings",
+    "arena-breakout-infinite-configs",
+    "arena-breakout-infinite-equipment-plans",
+    "arena-breakout-infinite-map-references"
+  ]
+}
